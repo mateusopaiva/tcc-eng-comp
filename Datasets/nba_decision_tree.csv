@@ -1,0 +1,688 @@
+TEAM,SEASON,ACCURACY,TOP_FEATURE,IMPORTANCE
+Atlanta Hawks,2001,0.64,FG_PCT,0.49
+Boston Celtics,2001,0.68,FG_PCT,0.24
+Brooklyn Nets,2001,0.61,FG_PCT,0.42
+Charlotte Hornets,2001,0.57,FG_PCT,0.21
+Chicago Bulls,2001,0.79,FTM,0.23
+Cleveland Cavaliers,2001,0.82,FG_PCT,0.33
+Dallas Mavericks,2001,0.68,PF,0.25
+Denver Nuggets,2001,0.82,DREB,0.32
+Detroit Pistons,2001,0.86,FG_PCT,0.32
+Golden State Warriors,2001,0.68,DREB,0.34
+Houston Rockets,2001,0.82,FG_PCT,0.41
+Indiana Pacers,2001,0.64,FG_PCT,0.36
+Los Angeles Clippers,2001,0.68,PF,0.31
+Los Angeles Lakers,2001,0.75,PF,0.35
+Memphis Grizzlies,2001,0.61,FG_PCT,0.38
+Miami Heat,2001,0.82,FGM,0.38
+Milwaukee Bucks,2001,0.64,FG_PCT,0.41
+Minnesota Timberwolves,2001,0.79,FGM,0.35
+New York Knicks,2001,0.68,DREB,0.21
+Oklahoma City Thunder,2001,0.71,FGM,0.37
+Orlando Magic,2001,0.75,FG_PCT,0.33
+Philadelphia 76ers,2001,0.54,FTM,0.44
+Phoenix Suns,2001,0.71,FT_PCT,0.23
+Portland Trail Blazers,2001,0.64,FG3_PCT,0.3
+Sacramento Kings,2001,0.82,FG_PCT,0.38
+San Antonio Spurs,2001,0.75,FG3_PCT,0.38
+Toronto Raptors,2001,0.64,DREB,0.32
+Utah Jazz,2001,0.71,FG_PCT,0.48
+Washington Wizards,2001,0.54,FGM,0.27
+Atlanta Hawks,2002,0.71,FG_PCT,0.39
+Boston Celtics,2002,0.54,FG_PCT,0.34
+Brooklyn Nets,2002,0.86,FG_PCT,0.39
+Chicago Bulls,2002,0.61,FG_PCT,0.29
+Cleveland Cavaliers,2002,0.68,TOV,0.42
+Dallas Mavericks,2002,0.75,FG_PCT,0.27
+Denver Nuggets,2002,0.57,AST,0.23
+Detroit Pistons,2002,0.61,AST,0.32
+Golden State Warriors,2002,0.71,FG_PCT,0.46
+Houston Rockets,2002,0.61,BLK,0.48
+Indiana Pacers,2002,0.68,FG3_PCT,0.42
+Los Angeles Clippers,2002,0.61,PF,0.22
+Los Angeles Lakers,2002,0.71,FTM,0.35
+Memphis Grizzlies,2002,0.79,FG_PCT,0.54
+Miami Heat,2002,0.79,FG_PCT,0.25
+Milwaukee Bucks,2002,0.71,PF,0.27
+Minnesota Timberwolves,2002,0.54,AST,0.39
+New Orleans Pelicans,2002,0.75,FGM,0.29
+New York Knicks,2002,0.68,FG_PCT,0.42
+Oklahoma City Thunder,2002,0.5,FG_PCT,0.26
+Orlando Magic,2002,0.64,PF,0.23
+Philadelphia 76ers,2002,0.61,PF,0.19
+Phoenix Suns,2002,0.61,FG_PCT,0.34
+Portland Trail Blazers,2002,0.68,FG_PCT,0.3
+Sacramento Kings,2002,0.75,DREB,0.31
+San Antonio Spurs,2002,0.54,FT_PCT,0.28
+Toronto Raptors,2002,0.64,FGM,0.42
+Utah Jazz,2002,0.68,FG_PCT,0.37
+Washington Wizards,2002,0.5,FTA,0.48
+Atlanta Hawks,2003,0.71,OREB,0.25
+Boston Celtics,2003,0.43,REB,0.21
+Brooklyn Nets,2003,0.82,DREB,0.29
+Chicago Bulls,2003,0.68,REB,0.28
+Cleveland Cavaliers,2003,0.64,FG_PCT,0.21
+Dallas Mavericks,2003,0.64,FG_PCT,0.39
+Denver Nuggets,2003,0.71,AST,0.78
+Detroit Pistons,2003,0.54,FGM,0.23
+Golden State Warriors,2003,0.71,DREB,0.26
+Houston Rockets,2003,0.61,FG_PCT,0.45
+Indiana Pacers,2003,0.68,REB,0.36
+Los Angeles Clippers,2003,0.61,FG_PCT,0.31
+Los Angeles Lakers,2003,0.64,FG_PCT,0.25
+Memphis Grizzlies,2003,0.68,DREB,0.28
+Miami Heat,2003,0.71,FG_PCT,0.24
+Milwaukee Bucks,2003,0.61,FGM,0.28
+Minnesota Timberwolves,2003,0.71,FG_PCT,0.28
+New Orleans Pelicans,2003,0.71,REB,0.24
+New York Knicks,2003,0.64,FTM,0.21
+Oklahoma City Thunder,2003,0.54,FGM,0.24
+Orlando Magic,2003,0.79,DREB,0.3
+Philadelphia 76ers,2003,0.71,FG_PCT,0.26
+Phoenix Suns,2003,0.71,FG_PCT,0.36
+Portland Trail Blazers,2003,0.29,AST,0.24
+Sacramento Kings,2003,0.64,FG_PCT,0.45
+San Antonio Spurs,2003,0.79,FG_PCT,0.31
+Toronto Raptors,2003,0.68,FG_PCT,0.36
+Utah Jazz,2003,0.5,FG_PCT,0.36
+Washington Wizards,2003,0.61,DREB,0.29
+Atlanta Hawks,2004,0.71,FGM,0.54
+Boston Celtics,2004,0.61,FG_PCT,0.28
+Brooklyn Nets,2004,0.68,FG3_PCT,0.35
+Charlotte Hornets,2004,0.75,FG3A,0.21
+Chicago Bulls,2004,0.46,FG_PCT,0.31
+Cleveland Cavaliers,2004,0.68,FG_PCT,0.45
+Dallas Mavericks,2004,0.75,FG_PCT,0.41
+Denver Nuggets,2004,0.86,FGM,0.3
+Detroit Pistons,2004,0.75,DREB,0.4
+Golden State Warriors,2004,0.57,FG_PCT,0.33
+Houston Rockets,2004,0.82,FG3_PCT,0.26
+Indiana Pacers,2004,0.54,DREB,0.39
+Los Angeles Clippers,2004,0.71,FG_PCT,0.28
+Los Angeles Lakers,2004,0.64,DREB,0.27
+Memphis Grizzlies,2004,0.5,TOV,0.22
+Miami Heat,2004,0.86,FG_PCT,0.29
+Milwaukee Bucks,2004,0.54,FG_PCT,0.31
+Minnesota Timberwolves,2004,0.46,FGM,0.36
+New Orleans Pelicans,2004,0.71,FTA,0.2
+New York Knicks,2004,0.54,FT_PCT,0.25
+Oklahoma City Thunder,2004,0.68,FG3_PCT,0.3
+Orlando Magic,2004,0.64,DREB,0.24
+Philadelphia 76ers,2004,0.64,FGM,0.44
+Phoenix Suns,2004,0.71,FG_PCT,0.58
+Portland Trail Blazers,2004,0.39,FG_PCT,0.32
+Sacramento Kings,2004,0.68,FG_PCT,0.55
+San Antonio Spurs,2004,0.82,AST,0.58
+Toronto Raptors,2004,0.71,FG3M,0.35
+Utah Jazz,2004,0.75,TOV,0.29
+Washington Wizards,2004,0.82,FTA,0.28
+Atlanta Hawks,2005,0.64,FG3M,0.5
+Boston Celtics,2005,0.57,FTA,0.4
+Brooklyn Nets,2005,0.57,FG_PCT,0.37
+Charlotte Hornets,2005,0.64,FG_PCT,0.41
+Chicago Bulls,2005,0.79,FTA,0.29
+Cleveland Cavaliers,2005,0.68,FTA,0.36
+Dallas Mavericks,2005,0.79,AST,0.28
+Denver Nuggets,2005,0.75,REB,0.27
+Detroit Pistons,2005,0.79,AST,0.34
+Golden State Warriors,2005,0.57,FG_PCT,0.3
+Houston Rockets,2005,0.61,FG_PCT,0.37
+Indiana Pacers,2005,0.68,FTM,0.24
+Los Angeles Clippers,2005,0.79,DREB,0.36
+Los Angeles Lakers,2005,0.57,DREB,0.24
+Memphis Grizzlies,2005,0.61,FG3_PCT,0.28
+Miami Heat,2005,0.68,PF,0.22
+Milwaukee Bucks,2005,0.75,AST,0.26
+Minnesota Timberwolves,2005,0.64,FG3_PCT,0.4
+New Orleans Pelicans,2005,0.57,FG_PCT,0.27
+New York Knicks,2005,0.68,FG3M,0.19
+Oklahoma City Thunder,2005,0.79,FG_PCT,0.44
+Orlando Magic,2005,0.61,FGM,0.22
+Philadelphia 76ers,2005,0.64,FGM,0.31
+Phoenix Suns,2005,0.61,FG_PCT,0.2
+Portland Trail Blazers,2005,0.68,PF,0.36
+Sacramento Kings,2005,0.54,FTM,0.27
+San Antonio Spurs,2005,0.61,FGA,0.31
+Toronto Raptors,2005,0.75,AST,0.38
+Utah Jazz,2005,0.68,FG3_PCT,0.27
+Washington Wizards,2005,0.61,DREB,0.27
+Atlanta Hawks,2006,0.61,FGM,0.36
+Boston Celtics,2006,0.75,DREB,0.39
+Brooklyn Nets,2006,0.5,FG_PCT,0.31
+Charlotte Hornets,2006,0.54,FGM,0.26
+Chicago Bulls,2006,0.64,FG_PCT,0.34
+Cleveland Cavaliers,2006,0.64,DREB,0.4
+Dallas Mavericks,2006,0.71,FG_PCT,0.45
+Denver Nuggets,2006,0.64,DREB,0.35
+Detroit Pistons,2006,0.64,REB,0.32
+Golden State Warriors,2006,0.5,FT_PCT,0.25
+Houston Rockets,2006,0.68,FG_PCT,0.45
+Indiana Pacers,2006,0.5,FGM,0.39
+Los Angeles Clippers,2006,0.57,BLK,0.29
+Los Angeles Lakers,2006,0.61,FG_PCT,0.34
+Memphis Grizzlies,2006,0.57,REB,0.32
+Miami Heat,2006,0.64,FG_PCT,0.48
+Milwaukee Bucks,2006,0.68,FG_PCT,0.37
+Minnesota Timberwolves,2006,0.54,AST,0.32
+New Orleans Pelicans,2006,0.57,FG_PCT,0.41
+New York Knicks,2006,0.68,FG_PCT,0.4
+Oklahoma City Thunder,2006,0.57,FTA,0.31
+Orlando Magic,2006,0.68,FGM,0.22
+Philadelphia 76ers,2006,0.61,FGM,0.25
+Phoenix Suns,2006,0.68,STL,0.22
+Portland Trail Blazers,2006,0.5,DREB,0.3
+Sacramento Kings,2006,0.68,FTM,0.25
+San Antonio Spurs,2006,0.86,FG_PCT,0.58
+Toronto Raptors,2006,0.79,FG3_PCT,0.34
+Utah Jazz,2006,0.68,FG_PCT,0.32
+Washington Wizards,2006,0.61,FG_PCT,0.58
+Atlanta Hawks,2007,0.61,FG_PCT,0.25
+Boston Celtics,2007,0.71,FG3_PCT,0.19
+Brooklyn Nets,2007,0.75,FG3_PCT,0.35
+Charlotte Hornets,2007,0.54,FG_PCT,0.21
+Chicago Bulls,2007,0.61,FG_PCT,0.53
+Cleveland Cavaliers,2007,0.57,FG_PCT,0.31
+Dallas Mavericks,2007,0.82,FG_PCT,0.43
+Denver Nuggets,2007,0.75,DREB,0.51
+Detroit Pistons,2007,0.71,AST,0.38
+Golden State Warriors,2007,0.57,DREB,0.31
+Houston Rockets,2007,0.75,PF,0.34
+Indiana Pacers,2007,0.71,TOV,0.23
+Los Angeles Clippers,2007,0.79,STL,0.35
+Los Angeles Lakers,2007,0.71,FG_PCT,0.36
+Memphis Grizzlies,2007,0.75,FG_PCT,0.31
+Miami Heat,2007,0.71,BLK,0.4
+Milwaukee Bucks,2007,0.54,DREB,0.24
+Minnesota Timberwolves,2007,0.75,DREB,0.34
+New Orleans Pelicans,2007,0.71,FG_PCT,0.34
+New York Knicks,2007,0.68,FT_PCT,0.29
+Oklahoma City Thunder,2007,0.61,FG_PCT,0.31
+Orlando Magic,2007,0.54,FG_PCT,0.24
+Philadelphia 76ers,2007,0.71,FG_PCT,0.31
+Phoenix Suns,2007,0.57,DREB,0.27
+Portland Trail Blazers,2007,0.57,FG_PCT,0.33
+Sacramento Kings,2007,0.68,FG_PCT,0.25
+San Antonio Spurs,2007,0.86,FG_PCT,0.26
+Toronto Raptors,2007,0.68,DREB,0.43
+Utah Jazz,2007,0.86,DREB,0.47
+Washington Wizards,2007,0.68,FGM,0.38
+Atlanta Hawks,2008,0.64,AST,0.27
+Boston Celtics,2008,0.68,FGM,0.36
+Brooklyn Nets,2008,0.75,DREB,0.22
+Charlotte Hornets,2008,0.71,FG_PCT,0.38
+Chicago Bulls,2008,0.68,PF,0.29
+Cleveland Cavaliers,2008,0.79,FG_PCT,0.3
+Dallas Mavericks,2008,0.79,FG_PCT,0.64
+Denver Nuggets,2008,0.68,DREB,0.27
+Detroit Pistons,2008,0.64,FG_PCT,0.31
+Golden State Warriors,2008,0.75,FTM,0.38
+Houston Rockets,2008,0.68,FG_PCT,0.41
+Indiana Pacers,2008,0.5,TOV,0.27
+Los Angeles Clippers,2008,0.79,FGM,0.36
+Los Angeles Lakers,2008,0.82,BLK,0.31
+Memphis Grizzlies,2008,0.64,BLK,0.24
+Miami Heat,2008,0.54,FG_PCT,0.36
+Milwaukee Bucks,2008,0.57,AST,0.35
+Minnesota Timberwolves,2008,0.57,FG_PCT,0.35
+New Orleans Pelicans,2008,0.39,FTM,0.34
+New York Knicks,2008,0.61,FG_PCT,0.36
+Oklahoma City Thunder,2008,0.75,FG3A,0.26
+Orlando Magic,2008,0.71,FGM,0.34
+Philadelphia 76ers,2008,0.82,FG_PCT,0.23
+Phoenix Suns,2008,0.64,FTM,0.27
+Portland Trail Blazers,2008,0.68,FG_PCT,0.44
+Sacramento Kings,2008,0.89,FGM,0.39
+San Antonio Spurs,2008,0.75,FG_PCT,0.36
+Toronto Raptors,2008,0.79,STL,0.29
+Utah Jazz,2008,0.54,FG_PCT,0.28
+Washington Wizards,2008,0.64,FGM,0.39
+Atlanta Hawks,2009,0.75,FGM,0.29
+Boston Celtics,2009,0.68,AST,0.24
+Brooklyn Nets,2009,0.79,FGM,0.25
+Charlotte Hornets,2009,0.61,FGM,0.46
+Chicago Bulls,2009,0.64,DREB,0.45
+Cleveland Cavaliers,2009,0.64,FG_PCT,0.63
+Dallas Mavericks,2009,0.61,FG_PCT,0.51
+Denver Nuggets,2009,0.79,AST,0.31
+Detroit Pistons,2009,0.75,FG_PCT,0.4
+Golden State Warriors,2009,0.57,FGM,0.28
+Houston Rockets,2009,0.54,FGM,0.33
+Indiana Pacers,2009,0.82,FG_PCT,0.34
+Los Angeles Clippers,2009,0.43,FT_PCT,0.33
+Los Angeles Lakers,2009,0.89,AST,0.45
+Memphis Grizzlies,2009,0.61,FG3_PCT,0.34
+Miami Heat,2009,0.71,FG_PCT,0.36
+Milwaukee Bucks,2009,0.86,DREB,0.31
+Minnesota Timberwolves,2009,0.82,FG_PCT,0.33
+New Orleans Pelicans,2009,0.54,DREB,0.31
+New York Knicks,2009,0.61,FG3_PCT,0.25
+Oklahoma City Thunder,2009,0.61,FG_PCT,0.41
+Orlando Magic,2009,0.71,FG_PCT,0.38
+Philadelphia 76ers,2009,0.64,FG_PCT,0.25
+Phoenix Suns,2009,0.64,FG_PCT,0.32
+Portland Trail Blazers,2009,0.61,FG_PCT,0.31
+Sacramento Kings,2009,0.79,DREB,0.37
+San Antonio Spurs,2009,0.64,FG3_PCT,0.27
+Toronto Raptors,2009,0.57,TOV,0.17
+Utah Jazz,2009,0.71,FG_PCT,0.42
+Washington Wizards,2009,0.64,FTM,0.28
+Atlanta Hawks,2010,0.5,DREB,0.44
+Boston Celtics,2010,0.79,FG_PCT,0.3
+Brooklyn Nets,2010,0.86,DREB,0.33
+Charlotte Hornets,2010,0.61,FG_PCT,0.49
+Chicago Bulls,2010,0.68,DREB,0.2
+Cleveland Cavaliers,2010,0.64,DREB,0.39
+Dallas Mavericks,2010,0.75,FGM,0.28
+Denver Nuggets,2010,0.71,DREB,0.32
+Detroit Pistons,2010,0.68,FG3M,0.36
+Golden State Warriors,2010,0.68,FG_PCT,0.22
+Houston Rockets,2010,0.57,AST,0.28
+Indiana Pacers,2010,0.75,FG_PCT,0.29
+Los Angeles Clippers,2010,0.5,AST,0.4
+Los Angeles Lakers,2010,0.68,FG_PCT,0.39
+Memphis Grizzlies,2010,0.5,FG_PCT,0.25
+Miami Heat,2010,0.79,FG_PCT,0.43
+Milwaukee Bucks,2010,0.61,FG_PCT,0.64
+Minnesota Timberwolves,2010,0.71,DREB,0.49
+New Orleans Pelicans,2010,0.71,FG_PCT,0.3
+New York Knicks,2010,0.64,FG3_PCT,0.29
+Oklahoma City Thunder,2010,0.57,BLK,0.21
+Orlando Magic,2010,0.5,DREB,0.38
+Philadelphia 76ers,2010,0.71,FG_PCT,0.29
+Phoenix Suns,2010,0.57,BLK,0.24
+Portland Trail Blazers,2010,0.64,FG_PCT,0.44
+Sacramento Kings,2010,0.71,FG_PCT,0.36
+San Antonio Spurs,2010,0.86,FG_PCT,0.46
+Toronto Raptors,2010,0.68,FG_PCT,0.38
+Utah Jazz,2010,0.61,DREB,0.2
+Washington Wizards,2010,0.79,FG3_PCT,0.33
+Atlanta Hawks,2011,0.68,FGM,0.74
+Boston Celtics,2011,0.59,DREB,0.36
+Brooklyn Nets,2011,0.55,AST,0.47
+Charlotte Hornets,2011,0.95,FG_PCT,0.53
+Chicago Bulls,2011,0.77,FGM,0.37
+Cleveland Cavaliers,2011,0.68,TOV,0.26
+Dallas Mavericks,2011,0.77,DREB,0.46
+Denver Nuggets,2011,0.5,FG3_PCT,0.36
+Detroit Pistons,2011,0.82,FG_PCT,0.37
+Golden State Warriors,2011,0.64,OREB,0.32
+Houston Rockets,2011,0.59,PF,0.38
+Indiana Pacers,2011,0.68,REB,0.3
+Los Angeles Clippers,2011,0.55,AST,0.28
+Los Angeles Lakers,2011,0.45,FG3_PCT,0.26
+Memphis Grizzlies,2011,0.77,FG_PCT,0.34
+Miami Heat,2011,0.64,FG_PCT,0.29
+Milwaukee Bucks,2011,0.68,FG_PCT,0.53
+Minnesota Timberwolves,2011,0.64,FGM,0.25
+New Orleans Pelicans,2011,0.68,STL,0.25
+New York Knicks,2011,0.59,FG_PCT,0.33
+Oklahoma City Thunder,2011,0.59,FT_PCT,0.31
+Orlando Magic,2011,0.77,AST,0.47
+Philadelphia 76ers,2011,0.64,AST,0.36
+Phoenix Suns,2011,0.5,FGM,0.22
+Portland Trail Blazers,2011,0.45,REB,0.36
+Sacramento Kings,2011,0.68,FT_PCT,0.32
+San Antonio Spurs,2011,0.55,REB,0.43
+Toronto Raptors,2011,0.77,FTA,0.28
+Utah Jazz,2011,0.73,FG_PCT,0.26
+Washington Wizards,2011,0.59,FGM,0.36
+Atlanta Hawks,2012,0.71,FGM,0.3
+Boston Celtics,2012,0.63,FG_PCT,0.37
+Brooklyn Nets,2012,0.82,DREB,0.25
+Charlotte Hornets,2012,0.75,DREB,0.32
+Chicago Bulls,2012,0.5,FG_PCT,0.22
+Cleveland Cavaliers,2012,0.54,FG3M,0.24
+Dallas Mavericks,2012,0.57,FGM,0.52
+Denver Nuggets,2012,0.57,TOV,0.38
+Detroit Pistons,2012,0.68,AST,0.42
+Golden State Warriors,2012,0.75,FG_PCT,0.21
+Houston Rockets,2012,0.71,REB,0.34
+Indiana Pacers,2012,0.67,STL,0.23
+Los Angeles Clippers,2012,0.64,PF,0.26
+Los Angeles Lakers,2012,0.79,AST,0.4
+Memphis Grizzlies,2012,0.75,DREB,0.34
+Miami Heat,2012,0.89,AST,0.78
+Milwaukee Bucks,2012,0.61,FG_PCT,0.35
+Minnesota Timberwolves,2012,0.57,FG_PCT,0.27
+New Orleans Pelicans,2012,0.61,REB,0.25
+New York Knicks,2012,0.54,PF,0.46
+Oklahoma City Thunder,2012,0.75,FGM,0.29
+Orlando Magic,2012,0.61,FGM,0.32
+Philadelphia 76ers,2012,0.71,FG_PCT,0.34
+Phoenix Suns,2012,0.57,DREB,0.39
+Portland Trail Blazers,2012,0.61,FGM,0.33
+Sacramento Kings,2012,0.75,FG_PCT,0.4
+San Antonio Spurs,2012,0.82,FG_PCT,0.41
+Toronto Raptors,2012,0.46,PF,0.26
+Utah Jazz,2012,0.61,FG_PCT,0.44
+Washington Wizards,2012,0.5,FG3_PCT,0.44
+Atlanta Hawks,2013,0.57,FTA,0.24
+Boston Celtics,2013,0.64,FG_PCT,0.28
+Brooklyn Nets,2013,0.5,FG_PCT,0.4
+Charlotte Hornets,2013,0.75,DREB,0.39
+Chicago Bulls,2013,0.75,FGM,0.44
+Cleveland Cavaliers,2013,0.79,REB,0.3
+Dallas Mavericks,2013,0.68,FGM,0.2
+Denver Nuggets,2013,0.46,FG_PCT,0.35
+Detroit Pistons,2013,0.75,DREB,0.19
+Golden State Warriors,2013,0.79,FGM,0.37
+Houston Rockets,2013,0.82,FG_PCT,0.57
+Indiana Pacers,2013,0.86,FGM,0.36
+Los Angeles Clippers,2013,0.71,FG_PCT,0.51
+Los Angeles Lakers,2013,0.75,FT_PCT,0.24
+Memphis Grizzlies,2013,0.5,FG_PCT,0.26
+Miami Heat,2013,0.64,DREB,0.31
+Milwaukee Bucks,2013,0.68,FTM,0.24
+Minnesota Timberwolves,2013,0.46,DREB,0.43
+New Orleans Pelicans,2013,0.64,FG_PCT,0.29
+New York Knicks,2013,0.57,FT_PCT,0.28
+Oklahoma City Thunder,2013,0.75,FGM,0.27
+Orlando Magic,2013,0.79,DREB,0.38
+Philadelphia 76ers,2013,0.71,FG_PCT,0.53
+Phoenix Suns,2013,0.75,FG_PCT,0.41
+Portland Trail Blazers,2013,0.64,DREB,0.31
+Sacramento Kings,2013,0.71,DREB,0.32
+San Antonio Spurs,2013,0.82,REB,0.58
+Toronto Raptors,2013,0.46,FG3_PCT,0.38
+Utah Jazz,2013,0.79,REB,0.25
+Washington Wizards,2013,0.57,FTA,0.25
+Atlanta Hawks,2014,0.61,FG_PCT,0.29
+Boston Celtics,2014,0.54,DREB,0.19
+Brooklyn Nets,2014,0.71,FG_PCT,0.52
+Charlotte Hornets,2014,0.68,FG_PCT,0.48
+Chicago Bulls,2014,0.82,FG_PCT,0.24
+Cleveland Cavaliers,2014,0.93,FG_PCT,0.31
+Dallas Mavericks,2014,0.68,FG_PCT,0.3
+Denver Nuggets,2014,0.68,FG_PCT,0.45
+Detroit Pistons,2014,0.89,FG3M,0.27
+Golden State Warriors,2014,0.79,FG_PCT,0.33
+Houston Rockets,2014,0.71,FG_PCT,0.21
+Indiana Pacers,2014,0.61,FTA,0.26
+Los Angeles Clippers,2014,0.71,DREB,0.36
+Los Angeles Lakers,2014,0.5,BLK,0.22
+Memphis Grizzlies,2014,0.79,DREB,0.4
+Miami Heat,2014,0.71,DREB,0.31
+Milwaukee Bucks,2014,0.61,FG3_PCT,0.32
+Minnesota Timberwolves,2014,0.89,FG_PCT,0.38
+New Orleans Pelicans,2014,0.79,FG_PCT,0.39
+New York Knicks,2014,0.71,FG_PCT,0.33
+Oklahoma City Thunder,2014,0.64,FGM,0.33
+Orlando Magic,2014,0.5,FG_PCT,0.27
+Philadelphia 76ers,2014,0.75,BLK,0.22
+Phoenix Suns,2014,0.71,FG_PCT,0.46
+Portland Trail Blazers,2014,0.61,DREB,0.2
+Sacramento Kings,2014,0.57,FG_PCT,0.33
+San Antonio Spurs,2014,0.61,FG3_PCT,0.28
+Toronto Raptors,2014,0.71,FG3_PCT,0.27
+Utah Jazz,2014,0.64,DREB,0.27
+Washington Wizards,2014,0.68,FG_PCT,0.57
+Atlanta Hawks,2015,0.71,FGM,0.45
+Boston Celtics,2015,0.71,DREB,0.29
+Brooklyn Nets,2015,0.71,FG_PCT,0.36
+Charlotte Hornets,2015,0.61,FG_PCT,0.59
+Chicago Bulls,2015,0.5,FG_PCT,0.29
+Cleveland Cavaliers,2015,0.75,FG_PCT,0.31
+Dallas Mavericks,2015,0.57,FG3_PCT,0.25
+Denver Nuggets,2015,0.71,STL,0.33
+Detroit Pistons,2015,0.75,FG3_PCT,0.32
+Golden State Warriors,2015,0.82,FG3M,0.38
+Houston Rockets,2015,0.5,REB,0.19
+Indiana Pacers,2015,0.75,REB,0.22
+Los Angeles Clippers,2015,0.68,REB,0.45
+Los Angeles Lakers,2015,0.79,FGM,0.32
+Memphis Grizzlies,2015,0.54,FT_PCT,0.29
+Miami Heat,2015,0.79,FG_PCT,0.26
+Milwaukee Bucks,2015,0.5,STL,0.37
+Minnesota Timberwolves,2015,0.5,FG_PCT,0.38
+New Orleans Pelicans,2015,0.82,FG_PCT,0.46
+New York Knicks,2015,0.54,FG_PCT,0.31
+Oklahoma City Thunder,2015,0.71,FG_PCT,0.25
+Orlando Magic,2015,0.68,REB,0.23
+Philadelphia 76ers,2015,0.79,FG_PCT,0.55
+Phoenix Suns,2015,0.68,DREB,0.42
+Portland Trail Blazers,2015,0.79,FG_PCT,0.29
+Sacramento Kings,2015,0.75,DREB,0.28
+San Antonio Spurs,2015,0.79,FG_PCT,0.28
+Toronto Raptors,2015,0.64,FG_PCT,0.3
+Utah Jazz,2015,0.5,DREB,0.43
+Washington Wizards,2015,0.68,FG_PCT,0.46
+Atlanta Hawks,2016,0.68,FG_PCT,0.33
+Boston Celtics,2016,0.68,DREB,0.38
+Brooklyn Nets,2016,0.86,FTM,0.34
+Charlotte Hornets,2016,0.64,TOV,0.18
+Chicago Bulls,2016,0.5,FG_PCT,0.51
+Cleveland Cavaliers,2016,0.64,TOV,0.35
+Dallas Mavericks,2016,0.64,FG_PCT,0.42
+Denver Nuggets,2016,0.57,FG_PCT,0.37
+Detroit Pistons,2016,0.79,AST,0.4
+Golden State Warriors,2016,0.93,AST,0.53
+Houston Rockets,2016,0.75,FG3_PCT,0.47
+Indiana Pacers,2016,0.54,DREB,0.36
+Los Angeles Clippers,2016,0.71,FGM,0.3
+Los Angeles Lakers,2016,0.82,REB,0.31
+Memphis Grizzlies,2016,0.61,FG3_PCT,0.29
+Miami Heat,2016,0.71,FG3_PCT,0.32
+Milwaukee Bucks,2016,0.57,AST,0.4
+Minnesota Timberwolves,2016,0.5,BLK,0.35
+New Orleans Pelicans,2016,0.57,DREB,0.37
+New York Knicks,2016,0.5,DREB,0.28
+Oklahoma City Thunder,2016,0.68,DREB,0.32
+Orlando Magic,2016,0.61,FG_PCT,0.27
+Philadelphia 76ers,2016,0.68,FG_PCT,0.37
+Phoenix Suns,2016,0.54,FG3_PCT,0.32
+Portland Trail Blazers,2016,0.75,TOV,0.34
+Sacramento Kings,2016,0.54,REB,0.28
+San Antonio Spurs,2016,0.75,FGM,0.43
+Toronto Raptors,2016,0.64,FGM,0.32
+Utah Jazz,2016,0.71,FG_PCT,0.33
+Washington Wizards,2016,0.71,FGA,0.19
+Atlanta Hawks,2017,0.57,AST,0.32
+Boston Celtics,2017,0.54,STL,0.39
+Brooklyn Nets,2017,0.75,FG_PCT,0.61
+Charlotte Hornets,2017,0.64,FG3_PCT,0.37
+Chicago Bulls,2017,0.79,FG_PCT,0.36
+Cleveland Cavaliers,2017,0.71,FG3_PCT,0.37
+Dallas Mavericks,2017,0.64,DREB,0.25
+Denver Nuggets,2017,0.64,FG_PCT,0.2
+Detroit Pistons,2017,0.57,FG_PCT,0.42
+Golden State Warriors,2017,0.5,DREB,0.43
+Houston Rockets,2017,0.79,FG_PCT,0.38
+Indiana Pacers,2017,0.71,FG_PCT,0.26
+Los Angeles Clippers,2017,0.79,FG3_PCT,0.29
+Los Angeles Lakers,2017,0.64,DREB,0.31
+Memphis Grizzlies,2017,0.64,FG3_PCT,0.23
+Miami Heat,2017,0.71,BLK,0.38
+Milwaukee Bucks,2017,0.54,FG_PCT,0.41
+Minnesota Timberwolves,2017,0.82,REB,0.29
+New Orleans Pelicans,2017,0.61,FG_PCT,0.27
+New York Knicks,2017,0.79,REB,0.22
+Oklahoma City Thunder,2017,0.71,REB,0.22
+Orlando Magic,2017,0.75,DREB,0.25
+Philadelphia 76ers,2017,0.46,REB,0.3
+Phoenix Suns,2017,0.86,DREB,0.26
+Portland Trail Blazers,2017,0.68,FG3_PCT,0.21
+Sacramento Kings,2017,0.57,FG_PCT,0.24
+San Antonio Spurs,2017,0.71,PF,0.21
+Toronto Raptors,2017,0.79,REB,0.22
+Utah Jazz,2017,0.68,FG_PCT,0.45
+Washington Wizards,2017,0.75,FG_PCT,0.3
+Atlanta Hawks,2018,0.71,FG3_PCT,0.26
+Boston Celtics,2018,0.5,FG_PCT,0.43
+Brooklyn Nets,2018,0.5,FG_PCT,0.24
+Charlotte Hornets,2018,0.54,FG_PCT,0.29
+Chicago Bulls,2018,0.79,FG_PCT,0.27
+Cleveland Cavaliers,2018,0.79,FG_PCT,0.41
+Dallas Mavericks,2018,0.57,FG_PCT,0.25
+Denver Nuggets,2018,0.71,FG_PCT,0.32
+Detroit Pistons,2018,0.71,FG3_PCT,0.26
+Golden State Warriors,2018,0.82,FG3_PCT,0.49
+Houston Rockets,2018,0.64,STL,0.23
+Indiana Pacers,2018,0.54,FG_PCT,0.23
+Los Angeles Clippers,2018,0.64,AST,0.21
+Los Angeles Lakers,2018,0.71,FG3_PCT,0.4
+Memphis Grizzlies,2018,0.54,FG3_PCT,0.34
+Miami Heat,2018,0.54,REB,0.28
+Milwaukee Bucks,2018,0.79,FG_PCT,0.33
+Minnesota Timberwolves,2018,0.5,STL,0.35
+New Orleans Pelicans,2018,0.68,FG_PCT,0.4
+New York Knicks,2018,0.75,BLK,0.23
+Oklahoma City Thunder,2018,0.46,FT_PCT,0.37
+Orlando Magic,2018,0.68,DREB,0.27
+Philadelphia 76ers,2018,0.75,AST,0.27
+Phoenix Suns,2018,0.68,FG_PCT,0.26
+Portland Trail Blazers,2018,0.64,FG_PCT,0.26
+Sacramento Kings,2018,0.46,FG3_PCT,0.32
+San Antonio Spurs,2018,0.71,FG_PCT,0.49
+Toronto Raptors,2018,0.75,FG_PCT,0.27
+Utah Jazz,2018,0.79,FG_PCT,0.31
+Washington Wizards,2018,0.71,FG_PCT,0.31
+Atlanta Hawks,2019,0.87,DREB,0.42
+Boston Celtics,2019,0.79,FG3_PCT,0.41
+Brooklyn Nets,2019,0.54,STL,0.25
+Charlotte Hornets,2019,0.64,FG3_PCT,0.43
+Chicago Bulls,2019,0.68,REB,0.37
+Cleveland Cavaliers,2019,0.73,REB,0.34
+Dallas Mavericks,2019,0.56,FG_PCT,0.47
+Denver Nuggets,2019,0.56,FG_PCT,0.25
+Detroit Pistons,2019,0.77,FGM,0.45
+Golden State Warriors,2019,0.64,FG_PCT,0.29
+Houston Rockets,2019,0.62,FG3_PCT,0.26
+Indiana Pacers,2019,0.72,FGM,0.31
+Los Angeles Clippers,2019,0.75,DREB,0.2
+Los Angeles Lakers,2019,0.67,FG3_PCT,0.24
+Memphis Grizzlies,2019,0.76,FGM,0.36
+Miami Heat,2019,0.52,FG3_PCT,0.4
+Milwaukee Bucks,2019,0.48,FG3_PCT,0.48
+Minnesota Timberwolves,2019,0.5,FGA,0.39
+New Orleans Pelicans,2019,0.62,DREB,0.44
+New York Knicks,2019,0.73,DREB,0.41
+Oklahoma City Thunder,2019,0.58,DREB,0.22
+Orlando Magic,2019,0.68,FGM,0.62
+Philadelphia 76ers,2019,0.4,STL,0.2
+Phoenix Suns,2019,0.72,FGM,0.41
+Portland Trail Blazers,2019,0.76,FG_PCT,0.27
+Sacramento Kings,2019,0.62,FG3_PCT,0.34
+San Antonio Spurs,2019,0.58,FTM,0.29
+Toronto Raptors,2019,0.88,FG_PCT,0.34
+Utah Jazz,2019,0.67,FG_PCT,0.43
+Washington Wizards,2019,0.5,FGA,0.25
+Atlanta Hawks,2020,0.79,DREB,0.4
+Boston Celtics,2020,0.62,FG3_PCT,0.44
+Brooklyn Nets,2020,0.58,FG_PCT,0.42
+Charlotte Hornets,2020,0.54,AST,0.31
+Chicago Bulls,2020,0.67,DREB,0.4
+Cleveland Cavaliers,2020,0.75,FGM,0.38
+Dallas Mavericks,2020,0.54,FG_PCT,0.42
+Denver Nuggets,2020,0.75,DREB,0.34
+Detroit Pistons,2020,0.42,FT_PCT,0.3
+Golden State Warriors,2020,0.67,FG_PCT,0.48
+Houston Rockets,2020,0.75,FGM,0.37
+Indiana Pacers,2020,0.58,FG3_PCT,0.22
+Los Angeles Clippers,2020,0.88,FG_PCT,0.34
+Los Angeles Lakers,2020,0.67,STL,0.33
+Memphis Grizzlies,2020,0.67,DREB,0.41
+Miami Heat,2020,0.58,FG_PCT,0.29
+Milwaukee Bucks,2020,0.58,DREB,0.51
+Minnesota Timberwolves,2020,0.58,FG_PCT,0.32
+New Orleans Pelicans,2020,0.83,FG_PCT,0.35
+New York Knicks,2020,0.62,FG_PCT,0.31
+Oklahoma City Thunder,2020,0.83,DREB,0.43
+Orlando Magic,2020,0.75,FG_PCT,0.6
+Philadelphia 76ers,2020,0.71,STL,0.31
+Phoenix Suns,2020,0.58,FG_PCT,0.25
+Portland Trail Blazers,2020,0.58,FG3_PCT,0.48
+Sacramento Kings,2020,0.75,REB,0.24
+San Antonio Spurs,2020,0.67,REB,0.23
+Toronto Raptors,2020,0.83,FT_PCT,0.41
+Utah Jazz,2020,0.79,FG_PCT,0.47
+Washington Wizards,2020,0.67,DREB,0.29
+Atlanta Hawks,2021,0.68,FG_PCT,0.45
+Boston Celtics,2021,0.64,FG_PCT,0.34
+Brooklyn Nets,2021,0.57,AST,0.42
+Charlotte Hornets,2021,0.61,FG_PCT,0.37
+Chicago Bulls,2021,0.61,FGM,0.41
+Cleveland Cavaliers,2021,0.57,REB,0.38
+Dallas Mavericks,2021,0.79,BLK,0.36
+Denver Nuggets,2021,0.57,AST,0.3
+Detroit Pistons,2021,0.68,FGM,0.39
+Golden State Warriors,2021,0.5,FG_PCT,0.26
+Houston Rockets,2021,0.71,FG_PCT,0.41
+Indiana Pacers,2021,0.71,FG_PCT,0.29
+Los Angeles Clippers,2021,0.82,DREB,0.3
+Los Angeles Lakers,2021,0.5,DREB,0.26
+Memphis Grizzlies,2021,0.89,FG_PCT,0.45
+Miami Heat,2021,0.75,FG_PCT,0.39
+Milwaukee Bucks,2021,0.82,DREB,0.51
+Minnesota Timberwolves,2021,0.82,DREB,0.31
+New Orleans Pelicans,2021,0.57,FGM,0.24
+New York Knicks,2021,0.75,FG3_PCT,0.29
+Oklahoma City Thunder,2021,0.75,DREB,0.47
+Orlando Magic,2021,0.79,REB,0.27
+Philadelphia 76ers,2021,0.64,FG_PCT,0.38
+Phoenix Suns,2021,0.82,REB,0.35
+Portland Trail Blazers,2021,0.57,FG3_PCT,0.38
+Sacramento Kings,2021,0.68,AST,0.35
+San Antonio Spurs,2021,0.68,REB,0.48
+Toronto Raptors,2021,0.71,FG_PCT,0.24
+Utah Jazz,2021,0.64,FG_PCT,0.35
+Washington Wizards,2021,0.54,FG3_PCT,0.47
+Atlanta Hawks,2022,0.61,DREB,0.41
+Boston Celtics,2022,0.68,FG_PCT,0.58
+Brooklyn Nets,2022,0.79,REB,0.26
+Charlotte Hornets,2022,0.57,FTA,0.25
+Chicago Bulls,2022,0.79,DREB,0.33
+Cleveland Cavaliers,2022,0.57,FG_PCT,0.26
+Dallas Mavericks,2022,0.61,REB,0.23
+Denver Nuggets,2022,0.68,FG_PCT,0.32
+Detroit Pistons,2022,0.89,FGM,0.37
+Golden State Warriors,2022,0.68,FG_PCT,0.32
+Houston Rockets,2022,0.57,DREB,0.31
+Indiana Pacers,2022,0.71,DREB,0.31
+Los Angeles Clippers,2022,0.57,FGM,0.27
+Los Angeles Lakers,2022,0.54,AST,0.38
+Memphis Grizzlies,2022,0.71,FGM,0.43
+Miami Heat,2022,0.68,AST,0.35
+Milwaukee Bucks,2022,0.75,DREB,0.54
+Minnesota Timberwolves,2022,0.54,FG_PCT,0.48
+New Orleans Pelicans,2022,0.61,FG_PCT,0.25
+New York Knicks,2022,0.57,FG_PCT,0.32
+Oklahoma City Thunder,2022,0.57,FG_PCT,0.31
+Orlando Magic,2022,0.61,FG_PCT,0.25
+Philadelphia 76ers,2022,0.64,FG_PCT,0.35
+Phoenix Suns,2022,0.61,TOV,0.26
+Portland Trail Blazers,2022,0.79,DREB,0.37
+Sacramento Kings,2022,0.82,FG_PCT,0.41
+San Antonio Spurs,2022,0.61,DREB,0.32
+Toronto Raptors,2022,0.5,FG3M,0.24
+Utah Jazz,2022,0.71,REB,0.35
+Washington Wizards,2022,0.75,FG_PCT,0.41
+Atlanta Hawks,2023,0.75,FG_PCT,0.54
+Boston Celtics,2023,0.74,FG_PCT,0.35
+Brooklyn Nets,2023,0.61,DREB,0.38
+Charlotte Hornets,2023,0.75,FG_PCT,0.41
+Chicago Bulls,2023,0.64,DREB,0.32
+Cleveland Cavaliers,2023,0.79,REB,0.38
+Dallas Mavericks,2023,0.71,FG_PCT,0.47
+Denver Nuggets,2023,0.75,FG_PCT,0.4
+Detroit Pistons,2023,0.82,DREB,0.47
+Golden State Warriors,2023,0.86,FG_PCT,0.31
+Houston Rockets,2023,0.57,PF,0.25
+Indiana Pacers,2023,0.64,FG3_PCT,0.37
+Los Angeles Clippers,2023,0.82,FG_PCT,0.31
+Los Angeles Lakers,2023,0.89,FG_PCT,0.28
+Memphis Grizzlies,2023,0.82,FG_PCT,0.4
+Miami Heat,2023,0.75,FG_PCT,0.4
+Milwaukee Bucks,2023,0.71,FG_PCT,0.44
+Minnesota Timberwolves,2023,0.61,FG_PCT,0.29
+New Orleans Pelicans,2023,0.5,DREB,0.27
+New York Knicks,2023,0.75,FG3_PCT,0.35
+Oklahoma City Thunder,2023,0.82,FG_PCT,0.51
+Orlando Magic,2023,0.68,FG_PCT,0.42
+Philadelphia 76ers,2023,0.54,FG_PCT,0.32
+Phoenix Suns,2023,0.71,FTM,0.21
+Portland Trail Blazers,2023,0.86,DREB,0.33
+Sacramento Kings,2023,0.57,FG_PCT,0.27
+San Antonio Spurs,2023,0.71,FG_PCT,0.43
+Toronto Raptors,2023,0.79,REB,0.28
+Utah Jazz,2023,0.64,AST,0.38
+Washington Wizards,2023,0.71,REB,0.26
